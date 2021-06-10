@@ -1,21 +1,29 @@
 body {
-  /*background-image: url('../img/fondo.png');*/
-  font-family: 'Poppins', sans-serif !important;
-  font-weight: 400;
+	font-family: 'Poppins', sans-serif !important;
+	font-weight: 400;
 }
-.title{ 
-  font-weight: 700;
-  color: #343633;
-  
+.title {
+	font-weight: 700;
+	color: #343633;
 }
-
-.orange { 
-  background-color: #fe6a16 !important;
-  color: #fefefe;
-  width: 200px;
-  height: 50px;
-  font-weight: 700;
-  border: 0px;
-  border-radius: 10px;
-  cursor: pointer;
+.orange {
+	background-color: #fe6a16 !important;
+	color: #fefefe;
+	width: 200px;
+	height: 50px;
+	font-weight: 700;
+	border: 0px;
+	border-radius: 10px;
+	cursor: pointer;
+}
+.titleCard {
+	font-weight: 700;
+	color: #343633;
+	margin-Top: 30px;
+	margin-bottom: 30px;
+	margin-inline: 20px;
+}
+.card-title {
+	font-weight: 700;
+	color: #343633;
 }
